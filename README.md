@@ -32,4 +32,7 @@ This code is licensed under the MIT License. The dataset (MedMentions) is subjec
 
 ## Contact
 For questions, contact the corresponding author:  
+Nela Riddle (nmriddle@iu.edu)
 Andrew Hoblitzell (ahoblitz@purdue.edu)
+
+or First Author, Jeongkyun Yoo, MD (luxiante@gmail.com)
