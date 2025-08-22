@@ -31,8 +31,6 @@ To reproduce the experiments, download the following language models to the spec
 This code is licensed under the MIT License. The dataset (MedMentions) is subject to UMLS licensing terms. The paper is licensed under CC BY 4.0.
 
 ## Contact
-For questions, contact the corresponding author:  
-Nela Riddle (nmriddle@iu.edu)
-Andrew Hoblitzell (ahoblitz@purdue.edu)
+For questions, contact the corresponding author: Nela Riddle (nmriddle@iu.edu), Andrew Hoblitzell (ahoblitz@purdue.edu)
 
 or First Author, Jeongkyun Yoo, MD (luxiante@gmail.com)
