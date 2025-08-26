@@ -4,8 +4,8 @@ This repository contains the implementation of **ReProCon**, a novel few-shot Na
 
 **ReProCon: Scalable and Resource-Efficient Few-Shot Biomedical Named Entity Recognition**  
 Jeongkyun Yoo, Nela Riddle, Andrew Hoblitzell  
-arXiv: [insert arXiv ID, e.g., arXiv:2508.XXXXX]  
-[Link to paper]
+DOI: https://doi.org/10.48550/arXiv.2508.16833
+arXiv Link: https://arxiv.org/abs/2508.16833
 
 ReProCon combines multi-prototype modeling, cosine-contrastive learning, and Reptile meta-learning to achieve scalable and resource-efficient NER. It exhibits only a 7.8% Macro-F1 drop when scaling from 19 to 50 categories and achieves 99% of BERT performance using a lightweight fastText + BiLSTM encoder, making it ideal for resource-constrained biomedical applications.
 
